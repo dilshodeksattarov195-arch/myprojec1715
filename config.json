@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routereerify",
+        "uuid": 1354850,
+        "checksum": "6z9jce"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
